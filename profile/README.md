@@ -25,7 +25,7 @@ The **Elmas Lab** develops interpretable and uncertainty-aware computational met
 
 ## For students
 
-We welcome MS students interested in:
+We welcome MS/PhD students interested in:
 
 `Machine Learning` · `Signal Processing` · `Optimization` · `Computer Vision` · `Computational Genomics` · `Proteogenomics` · `Spatial Omics` · `Biomedical Data Science`
 
